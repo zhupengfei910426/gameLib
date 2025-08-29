@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "师傅",
+    "english": "Sifu",
+    "platform": "PC",
+    "status": "not played"
+  },
+  {
+    "id": 2,
+    "title": "小骨：英雄杀手",
+    "english": "Skul: The Hero Slayer",
+    "platform": "PS5",
+    "status": "played"
+  },
+  {
+    "id": 3,
+    "title": "暗黑破坏神 IV",
+    "english": "Diablo IV",
+    "platform": "PS5",
+    "status": "played"
+  },
+  {
+    "id": 4,
+    "title": "塞尔达传说：王国之泪",
+    "english": "The Legend of Zelda: Tears of the Kingdom",
+    "platform": "Switch",
+    "status": "played"
+  }
+]

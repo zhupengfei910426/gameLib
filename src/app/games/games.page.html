@@ -1,0 +1,49 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      Games
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+
+  <ion-segment value="default" (ionChange)="segmentChanged($event)" class="m-4">
+    <ion-segment-button value="default">
+      <ion-label>All</ion-label>
+    </ion-segment-button>
+    <ion-segment-button value="ps5">
+      <ion-label>PS5</ion-label>
+    </ion-segment-button>
+    <ion-segment-button value="switch">
+      <ion-label>Switch</ion-label>
+    </ion-segment-button>
+    <ion-segment-button value="pc">
+      <ion-label>PC</ion-label>
+    </ion-segment-button>
+  </ion-segment>
+
+  <ion-searchbar [debounce]="300" (ionInput)="handleInput($event)"
+    placeholder="Search by name" (ionClear)="handleClear()">
+  </ion-searchbar>
+
+  @for (item of filteredGames; track item.id) {
+    <ion-card class="mb-4 mx-4 rounded-md">
+      <ion-card-header>
+        <ion-card-title>
+          <div class="flex flex-row justify-between px-8 py-4 items-baseline">
+            <div class="text-xl">{{item.title}}</div>
+            <div class="text-sm opacity-50">{{item.status}}</div>
+          </div>
+        </ion-card-title>
+        <ion-card-subtitle>
+          <div class="flex flex-row justify-between px-8 py-4">
+            <div>{{item.english}}</div>
+            <div>{{item.platform}}</div>
+          </div>
+        </ion-card-subtitle>
+      </ion-card-header>
+    </ion-card>
+  }
+
+</ion-content>
