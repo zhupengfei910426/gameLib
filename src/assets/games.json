@@ -1,30 +1,1528 @@
 [
   {
     "id": 1,
-    "title": "师傅",
-    "english": "Sifu",
-    "platform": "PC",
-    "status": "not played"
+    "title": "超阈限空间",
+    "english": "Superliminal",
+    "platform": "Steam",
+    "status": ""
   },
   {
     "id": 2,
-    "title": "小骨：英雄杀手",
-    "english": "Skul: The Hero Slayer",
-    "platform": "PS5",
-    "status": "played"
+    "title": "刺猬索尼克谋杀案",
+    "english": "The Murder of Sonic the Hedgehog",
+    "platform": "Steam",
+    "status": ""
   },
   {
     "id": 3,
-    "title": "暗黑破坏神 IV",
-    "english": "Diablo IV",
-    "platform": "PS5",
-    "status": "played"
+    "title": "怪物男孩和中邪王国",
+    "english": "Monster Boy and the Cursed Kingdom",
+    "platform": "Steam",
+    "status": ""
   },
   {
     "id": 4,
-    "title": "塞尔达传说：王国之泪",
-    "english": "The Legend of Zelda: Tears of the Kingdom",
-    "platform": "Switch",
-    "status": "played"
+    "title": "全面战争: 幕府将军2",
+    "english": "Total War: SHOGUN 2",
+    "platform": "Steam",
+    "status": ""
+  },
+  {
+    "id": 5,
+    "title": "三国志11 with 威力加强版",
+    "english": "Romance of the Three Kingdoms XI with Power-Up Kit",
+    "platform": "Steam",
+    "status": ""
+  },
+  {
+    "id": 6,
+    "title": "三国志IX with 威力加强版",
+    "english": "Romance of the Three Kingdoms IX with Power-Up Kit",
+    "platform": "Steam",
+    "status": ""
+  },
+  {
+    "id": 7,
+    "title": "巫师3: 狂猎",
+    "english": "The Witcher 3: Wild Hunt",
+    "platform": "Steam",
+    "status": ""
+  },
+  {
+    "id": 8,
+    "title": "信使",
+    "english": "The Messenger",
+    "platform": "Steam",
+    "status": ""
+  },
+  {
+    "id": 9,
+    "title": "中国式家长",
+    "english": "Chinese Parents",
+    "platform": "Steam",
+    "status": ""
+  },
+  {
+    "id": 10,
+    "title": "Aseprite",
+    "english": "Aseprite",
+    "platform": "Steam",
+    "status": ""
+  },
+  {
+    "id": 11,
+    "title": "Celeste",
+    "english": "Celeste",
+    "platform": "Steam",
+    "status": ""
+  },
+  {
+    "id": 12,
+    "title": "Cube Escape: Paradox",
+    "english": "Cube Escape: Paradox",
+    "platform": "Steam",
+    "status": ""
+  },
+  {
+    "id": 13,
+    "title": "Dead Cells",
+    "english": "Dead Cells",
+    "platform": "Steam",
+    "status": ""
+  },
+  {
+    "id": 14,
+    "title": "Evan's Remains",
+    "english": "Evan's Remains",
+    "platform": "Steam",
+    "status": ""
+  },
+  {
+    "id": 15,
+    "title": "Firewatch",
+    "english": "Firewatch",
+    "platform": "Steam",
+    "status": ""
+  },
+  {
+    "id": 16,
+    "title": "Florence",
+    "english": "Florence",
+    "platform": "Steam",
+    "status": ""
+  },
+  {
+    "id": 17,
+    "title": "Gorogoa",
+    "english": "Gorogoa",
+    "platform": "Steam",
+    "status": ""
+  },
+  {
+    "id": 18,
+    "title": "GRIS",
+    "english": "GRIS",
+    "platform": "Steam",
+    "status": ""
+  },
+  {
+    "id": 19,
+    "title": "Her Story",
+    "english": "Her Story",
+    "platform": "Steam",
+    "status": ""
+  },
+  {
+    "id": 20,
+    "title": "Hollow Knight",
+    "english": "Hollow Knight",
+    "platform": "Steam",
+    "status": ""
+  },
+  {
+    "id": 21,
+    "title": "INSIDE",
+    "english": "INSIDE",
+    "platform": "Steam",
+    "status": ""
+  },
+  {
+    "id": 22,
+    "title": "Journey",
+    "english": "Journey",
+    "platform": "Steam",
+    "status": ""
+  },
+  {
+    "id": 23,
+    "title": "Mark of the Ninja: Remastered",
+    "english": "Mark of the Ninja: Remastered",
+    "platform": "Steam",
+    "status": ""
+  },
+  {
+    "id": 24,
+    "title": "MARVEL SNAP",
+    "english": "MARVEL SNAP",
+    "platform": "Steam",
+    "status": ""
+  },
+  {
+    "id": 25,
+    "title": "The Mr. Rabbit Magic Show",
+    "english": "The Mr. Rabbit Magic Show",
+    "platform": "Steam",
+    "status": ""
+  },
+  {
+    "id": 26,
+    "title": "Overcooked! 2",
+    "english": "Overcooked! 2",
+    "platform": "Steam",
+    "status": ""
+  },
+  {
+    "id": 27,
+    "title": "Portal 2",
+    "english": "Portal 2",
+    "platform": "Steam",
+    "status": ""
+  },
+  {
+    "id": 28,
+    "title": "Samsara Room",
+    "english": "Samsara Room",
+    "platform": "Steam",
+    "status": ""
+  },
+  {
+    "id": 29,
+    "title": "Sheepy: A Short Adventure",
+    "english": "Sheepy: A Short Adventure",
+    "platform": "Steam",
+    "status": ""
+  },
+    {
+    "id": 30,
+    "title": "席德·梅尔的文明IV",
+    "english": "Sid Meier's Civilization IV",
+    "platform": "Steam",
+    "status": ""
+  },
+  {
+    "id": 31,
+    "title": "席德·梅尔的文明IV: 超越刀剑",
+    "english": "Sid Meier's Civilization IV: Beyond the Sword",
+    "platform": "Steam",
+    "status": ""
+  },
+  {
+    "id": 32,
+    "title": "席德·梅尔的文明IV: 殖民地",
+    "english": "Sid Meier's Civilization IV: Colonization",
+    "platform": "Steam",
+    "status": ""
+  },
+  {
+    "id": 33,
+    "title": "席德·梅尔的文明IV: 战国之王",
+    "english": "Sid Meier's Civilization IV: Warlords",
+    "platform": "Steam",
+    "status": ""
+  },
+  {
+    "id": 34,
+    "title": "模拟人生4",
+    "english": "The Sims™ 4",
+    "platform": "Steam",
+    "status": ""
+  },
+  {
+    "id": 35,
+    "title": "街头霸王V",
+    "english": "Street Fighter V",
+    "platform": "Steam",
+    "status": ""
+  },
+  {
+    "id": 36,
+    "title": "传说之下",
+    "english": "Undertale",
+    "platform": "Steam",
+    "status": ""
+  },
+  {
+    "id": 37,
+    "title": "非常英雄救世奇缘",
+    "english": "Unruly Heroes",
+    "platform": "Steam",
+    "status": ""
+  },
+  {
+    "id": 38,
+    "title": "勇敢的心: 世界大战",
+    "english": "Valiant Hearts: The Great War",
+    "platform": "Steam",
+    "status": ""
+  },
+  {
+    "id": 39,
+    "title": "Strange Horticulture",
+    "english": "Strange Horticulture",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 40,
+    "title": "Kamaeru",
+    "english": "Kamaeru",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 41,
+    "title": "Totally Reliable Delivery Service",
+    "english": "Totally Reliable Delivery Service",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 42,
+    "title": "Hidden Folks",
+    "english": "Hidden Folks",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 43,
+    "title": "Road Redemption",
+    "english": "Road Redemption",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 44,
+    "title": "112 Operator",
+    "english": "112 Operator",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 45,
+    "title": "朝圣者",
+    "english": "Pilgrims",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 46,
+    "title": "Keylocker",
+    "english": "Keylocker | Turn Based Cyberpunk Action",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 47,
+    "title": "Legion TD 2",
+    "english": "Legion TD 2",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 48,
+    "title": "文明6",
+    "english": "Sid Meier's Civilization VI",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 49,
+    "title": "Figment 2: Creed Valley",
+    "english": "Figment 2: Creed Valley",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 50,
+    "title": "Sky Racket",
+    "english": "Sky Racket",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 51,
+    "title": "Backpack Hero",
+    "english": "Backpack Hero",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 52,
+    "title": "The Operator",
+    "english": "The Operator",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 53,
+    "title": "双点医院",
+    "english": "Two Point Hospital",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 54,
+    "title": "奥啦和秘密森林",
+    "english": "Odlaw and the Secret Forest",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 55,
+    "title": "DEATHLOOP",
+    "english": "DEATHLOOP",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 56,
+    "title": "Tiny Tina's Wonderlands",
+    "english": "Tiny Tina's Wonderlands",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 57,
+    "title": "Limbo",
+    "english": "Limbo",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 58,
+    "title": "绝迹必达",
+    "english": "Deliver Us The Moon",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 59,
+    "title": "Wild Card Football",
+    "english": "Wild Card Football",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 60,
+    "title": "巨兽战争: 狂暴版",
+    "english": "Gigantic Rampage Edition",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 61,
+    "title": "The Callisto Protocol",
+    "english": "The Callisto Protocol",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 62,
+    "title": "Death's Gambit: Afterlife",
+    "english": "Death's Gambit: Afterlife",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 63,
+    "title": "DNF Duel",
+    "english": "DNF Duel",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 64,
+    "title": "CYGNI: All Guns Blazing",
+    "english": "CYGNI: All Guns Blazing",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 65,
+    "title": "RAWMEN: Food Fighter Arena",
+    "english": "RAWMEN: Food Fighter Arena",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 66,
+    "title": "LumbearJack",
+    "english": "LumbearJack",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 67,
+    "title": "Maid of Sker",
+    "english": "Maid of Sker",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 68,
+    "title": "Arcade Paradise",
+    "english": "Arcade Paradise",
+    "platform": "EPIC",
+    "status": ""
+  },
+{
+    "id": 69,
+    "title": "Gigaapocalypse",
+    "english": "Gigaapocalypse",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 70,
+    "title": "师父",
+    "english": "Sifu",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 71,
+    "title": "快乐游戏",
+    "english": "Happy Game",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 72,
+    "title": "死亡岛2",
+    "english": "Dead Island 2",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 73,
+    "title": "超级太空俱乐部",
+    "english": "Super Space Club",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 74,
+    "title": "毛线先生",
+    "english": "CHUCHEL",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 75,
+    "title": "热血少女",
+    "english": "River City Girls",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 76,
+    "title": "酷玩乱斗",
+    "english": "Arcadegeddon",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 77,
+    "title": "Neko Ghost, Jump!",
+    "english": "Neko Ghost, Jump!",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 78,
+    "title": "侏罗纪世界进化2",
+    "english": "Jurassic World Evolution 2",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 79,
+    "title": "Mages of Mystralia",
+    "english": "Mages of Mystralia",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 80,
+    "title": "人类崛起",
+    "english": "HUMANKIND",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 81,
+    "title": "蓝色深渊",
+    "english": "Beyond Blue",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 82,
+    "title": "不朽",
+    "english": "Undying",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 83,
+    "title": "画中世界: 最美风景",
+    "english": "Behind the Frame: The Finest Scenery",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 84,
+    "title": "逃脱学院",
+    "english": "Escape Academy",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 85,
+    "title": "Turmoil",
+    "english": "Turmoil",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 86,
+    "title": "地狱解锁",
+    "english": "Hell Let Loose",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 87,
+    "title": "魔戒: 重返魔多",
+    "english": "The Lord of The Rings: Return to Moria",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 88,
+    "title": "乐高星球大战: 天行者传奇",
+    "english": "LEGO® Star Wars™: The Skywalker Saga",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 89,
+    "title": "巴士模拟器21 Next Stop",
+    "english": "Bus Simulator 21 Next Stop",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 90,
+    "title": "观察者",
+    "english": "Beholder",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 91,
+    "title": "Snakebird Complete",
+    "english": "Snakebird Complete",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 92,
+    "title": "恶魔城周年纪念合集",
+    "english": "Castlevania Anniversary Collection",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 93,
+    "title": "Witch It",
+    "english": "Witch It",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 94,
+    "title": "胡闹搬家",
+    "english": "Moving Out",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 95,
+    "title": "Outward: Tribulation",
+    "english": "Outward: Tribulation",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 96,
+    "title": "Empyrion - Galactic Survival",
+    "english": "Empyrion - Galactic Survival",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 97,
+    "title": "卡牌之王",
+    "english": "Kardboard Kings",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 98,
+    "title": "熊与早餐",
+    "english": "Bear and Breakfast",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 99,
+    "title": "精灵与老鼠",
+    "english": "The Spirit and the Mouse",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 100,
+    "title": "TOEM",
+    "english": "TOEM",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 101,
+    "title": "最后抵抗: 余波",
+    "english": "The Last Stand: Aftermath",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 102,
+    "title": "超级疯狂节奏城堡",
+    "english": "Super Crazy Rhythm Castle",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 103,
+    "title": "鲁格拉特: 糖果乐园冒险",
+    "english": "Rugrats: Adventures in Gameland",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 104,
+    "title": "狙击手幽灵战士契约",
+    "english": "Sniper Ghost Warrior Contracts",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 105,
+    "title": "足球经理2024",
+    "english": "Football Manager 2024",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 106,
+    "title": "Football Manager 2024 Pre-game editor",
+    "english": "Football Manager 2024 Pre-game editor",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 107,
+    "title": "Football Manager 2024 Resource archiver",
+    "english": "Football Manager 2024 Resource archiver",
+    "platform": "EPIC",
+    "status": ""
+  },
+{
+    "id": 108,
+    "title": "Floppy Knights",
+    "english": "Floppy Knights",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 109,
+    "title": "The Falconeer",
+    "english": "The Falconeer",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 110,
+    "title": "Sunless Skies: Sovereign Edition",
+    "english": "Sunless Skies: Sovereign Edition",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 111,
+    "title": "Redout 2",
+    "english": "Redout 2",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 112,
+    "title": "漫威暗夜之子",
+    "english": "Marvel's Midnight Suns",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 113,
+    "title": "Chivalry 2 - Public Testing",
+    "english": "Chivalry 2 - Public Testing",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 114,
+    "title": "骑士精神2",
+    "english": "Chivalry 2",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 115,
+    "title": "Farming Simulator 22",
+    "english": "Farming Simulator 22",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 116,
+    "title": "龙腾世纪: 审判",
+    "english": "Dragon Age: Inquisition",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 117,
+    "title": "Firestone Online Idle RPG",
+    "english": "Firestone Online Idle RPG",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 118,
+    "title": "超级肉肉男孩永远",
+    "english": "Super Meat Boy Forever",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 119,
+    "title": "失落城堡",
+    "english": "Lost Castle",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 120,
+    "title": "心跳文学俱乐部Plus!",
+    "english": "Doki Doki Literature Club Plus!",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 121,
+    "title": "Doors: Paradox",
+    "english": "Doors: Paradox",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 122,
+    "title": "漫威: 银河护卫队",
+    "english": "Marvel's Guardians of the Galaxy",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 123,
+    "title": "直到黎明前20分钟",
+    "english": "20 Minutes Till Dawn",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 124,
+    "title": "Ghostrunner",
+    "english": "Ghostrunner",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 125,
+    "title": "圣徒行者",
+    "english": "Saints Row",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 126,
+    "title": "猫咪斗恶龙",
+    "english": "Cat Quest",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 127,
+    "title": "Curse to Golf",
+    "english": "Curse to Golf",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 128,
+    "title": "幽灵线东京",
+    "english": "Ghostwire Tokyo",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 129,
+    "title": "Melvor Idle",
+    "english": "Melvor Idle",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 130,
+    "title": "恶灵附身2",
+    "english": "The Evil Within 2",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 131,
+    "title": "Tandem: A Tale of Shadows",
+    "english": "Tandem: A Tale of Shadows",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 132,
+    "title": "Eternal Threads",
+    "english": "Eternal Threads",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 133,
+    "title": "恶灵附身",
+    "english": "The Evil Within",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 134,
+    "title": "Spelldrifter",
+    "english": "Spelldrifter",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 135,
+    "title": "Cave Story+",
+    "english": "Cave Story+",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 136,
+    "title": "Orwell: Keeping an Eye on You",
+    "english": "Orwell: Keeping an Eye on You",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 137,
+    "title": "欧陆风云IV",
+    "english": "Europa Universalis IV",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 138,
+    "title": "Circus Electrique",
+    "english": "Circus Electrique",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 139,
+    "title": "兽人必须死3",
+    "english": "Orcs Must Die! 3",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 140,
+    "title": "猫咪斗恶龙II",
+    "english": "Cat Quest II",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 141,
+    "title": "INDUSTRIA",
+    "english": "INDUSTRIA",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 142,
+    "title": "天外世界: 太空人之选版",
+    "english": "The Outer Worlds: Spacer's Choice Edition",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 143,
+    "title": "盗贼",
+    "english": "Thief",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 144,
+    "title": "荒野的召唤: 垂钓者",
+    "english": "Call of the Wild: The Angler",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 145,
+    "title": "Invincible Presents: Atom Eve",
+    "english": "Invincible Presents: Atom Eve",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 146,
+    "title": "Deus Ex: Mankind Divided",
+    "english": "Deus Ex: Mankind Divided",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 147,
+    "title": "The Bridge",
+    "english": "The Bridge",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 148,
+    "title": "生化奇兵:无限",
+    "english": "BioShock Infinite: Complete Edition",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 149,
+    "title": "生化奇兵2:重制版",
+    "english": "BioShock 2 Remastered",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 150,
+    "title": "无主之地3",
+    "english": "Borderlands 3",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 151,
+    "title": "Paradigm",
+    "english": "Paradigm",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 152,
+    "title": "Just Die Already",
+    "english": "Just Die Already",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 153,
+    "title": "Riverbond",
+    "english": "Riverbond",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 154,
+    "title": "Amnesia: Rebirth",
+    "english": "Amnesia: Rebirth",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 155,
+    "title": "XCOM 2",
+    "english": "XCOM 2",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 156,
+    "title": "Insurmountable",
+    "english": "Insurmountable",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 157,
+    "title": "消失的伊森·卡特",
+    "english": "The Vanishing of Ethan Carter",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 158,
+    "title": "盗贼遗产",
+    "english": "Rogue Legacy",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 159,
+    "title": "全面战争: 战锤",
+    "english": "Total War: WARHAMMER",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 160,
+    "title": "City of Brass",
+    "english": "City of Brass",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 161,
+    "title": "城市: 天际线",
+    "english": "Cities: Skylines",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 162,
+    "title": "水晶传说",
+    "english": "Cris Tales",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 163,
+    "title": "兄弟: 双子传说",
+    "english": "Brothers - A Tale of Two Sons",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 164,
+    "title": "Windbound",
+    "english": "Windbound",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 165,
+    "title": "古墓丽影: 十周年纪念版",
+    "english": "Tomb Raider GAME OF THE YEAR EDITION",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 166,
+    "title": "古墓丽影: 决定版",
+    "english": "Shadow of the Tomb Raider: Definitive Edition",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 167,
+    "title": "暗影火炬城",
+    "english": "F.I.S.T.: Forged In Shadow Torch",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 168,
+    "title": "死亡搁浅",
+    "english": "Death Stranding",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 169,
+    "title": "死亡搁浅 Content",
+    "english": "Death Stranding Content",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 170,
+    "title": "地铁: 最后的曙光重制版",
+    "english": "Metro Last Light Redux",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 171,
+    "title": "Encased",
+    "english": "Encased",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 172,
+    "title": "辐射 Tactics: Brotherhood of Steel",
+    "english": "Fallout Tactics: Brotherhood of Steel",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 173,
+    "title": "辐射2: A Post Nuclear Role Playing Game",
+    "english": "Fallout 2: A Post Nuclear Role Playing Game",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 174,
+    "title": "辐射: A Post Nuclear Role Playing Game",
+    "english": "Fallout: A Post Nuclear Role Playing Game",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 175,
+    "title": "Them's Fightin' Herds",
+    "english": "Them's Fightin' Herds",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 176,
+    "title": "Sable",
+    "english": "Sable",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 177,
+    "title": "Loop Hero",
+    "english": "Loop Hero",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 178,
+    "title": "GRIME",
+    "english": "GRIME",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 179,
+    "title": "Guacamelee! Super Turbo Championship Edition",
+    "english": "Guacamelee! Super Turbo Championship Edition",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 180,
+    "title": "Guacamelee! 2",
+    "english": "Guacamelee! 2",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 181,
+    "title": "Midnight Ghost Hunt",
+    "english": "Midnight Ghost Hunt",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 182,
+    "title": "辐射: 新维加斯",
+    "english": "Fallout: New Vegas",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 183,
+    "title": "模拟人生4",
+    "english": "The Sims™ 4",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 184,
+    "title": "shapez",
+    "english": "shapez",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 185,
+    "title": "消逝的光芒: 加强版",
+    "english": "Dying Light Enhanced Edition",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 186,
+    "title": "Tunche",
+    "english": "Tunche",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 187,
+    "title": "Gamedec - Definitive Edition",
+    "english": "Gamedec - Definitive Edition",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 188,
+    "title": "First Class Trouble",
+    "english": "First Class Trouble",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 189,
+    "title": "Divine Knockout",
+    "english": "Divine Knockout",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 190,
+    "title": "Kerbal Space Program",
+    "english": "Kerbal Space Program",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 191,
+    "title": "影子战术: 将军之刃",
+    "english": "Shadow Tactics: Blades of the Shogun",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 192,
+    "title": "Eximus: Seize the Frontline",
+    "english": "Eximus: Seize the Frontline",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 193,
+    "title": "耻辱: 确定版",
+    "english": "Dishonored - Definitive Edition",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 194,
+    "title": "致命躯壳",
+    "english": "Mortal Shell",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 195,
+    "title": "致命躯壳 Tech Beta",
+    "english": "Mortal Shell Tech Beta",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 196,
+    "title": "Severed Steel",
+    "english": "Severed Steel",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 197,
+    "title": "寂静时代",
+    "english": "The Silent Age",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 198,
+    "title": "Chess Ultra",
+    "english": "Chess Ultra",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 199,
+    "title": "战锤40k: 战团 - 战利品",
+    "english": "Warhammer 40,000: Gladius - Relics of War",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 200,
+    "title": "Duskers",
+    "english": "Duskers",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 201,
+    "title": "Recipe for Disaster",
+    "english": "Recipe for Disaster",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 202,
+    "title": "City of Gangsters",
+    "english": "City of Gangsters",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 203,
+    "title": "耻辱: 外来者之死",
+    "english": "Dishonored: Death of the Outsider™",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 204,
+    "title": "Hell is Others",
+    "english": "Hell is Others",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 205,
+    "title": "Adios",
+    "english": "Adios",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 206,
+    "title": "Epistory - Typing Chronicles",
+    "english": "Epistory - Typing Chronicles",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 207,
+    "title": "Bloons TD 6",
+    "english": "Bloons TD 6",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 208,
+    "title": "暴走枪姬",
+    "english": "Wildcat Gun Machine",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 209,
+    "title": "黑道圣徒IV重选",
+    "english": "Saints Row IV Re-Elected",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 210,
+    "title": "星战: 中队行动",
+    "english": "Star Wars Squadrons",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 211,
+    "title": "Idle Champions of the Forgotten Realms",
+    "english": "Idle Champions of the Forgotten Realms",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 212,
+    "title": "奇迹男孩: 龙之陷阱",
+    "english": "Wonder Boy: The Dragon's Trap",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 213,
+    "title": "Ancient Enemy",
+    "english": "Ancient Enemy",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 214,
+    "title": "权力的游戏: 棋盘游戏数字化版",
+    "english": "A Game of Thrones: The Board Game Digital Edition",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 215,
+    "title": "食人鲨",
+    "english": "Maneater",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 216,
+    "title": "生化奇兵: 重制版",
+    "english": "BioShock Remastered",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 217,
+    "title": "古墓丽影: 20周年纪念版",
+    "english": "Rise of the Tomb Raider: 20 Year Celebration",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 218,
+    "title": "消失的伊森·卡特: Redux",
+    "english": "The Vanishing of Ethan Carter Redux",
+    "platform": "EPIC",
+    "status": ""
   }
 ]

@@ -8,7 +8,7 @@
 
 <ion-content [fullscreen]="true">
 
-  <ion-segment value="default" (ionChange)="segmentChanged($event)" class="m-4">
+  <ion-segment value="default" (ionChange)="segmentChanged($event)">
     <ion-segment-button value="default">
       <ion-label>All</ion-label>
     </ion-segment-button>
@@ -18,8 +18,11 @@
     <ion-segment-button value="switch">
       <ion-label>Switch</ion-label>
     </ion-segment-button>
-    <ion-segment-button value="pc">
-      <ion-label>PC</ion-label>
+    <ion-segment-button value="steam">
+      <ion-label>Steam</ion-label>
+    </ion-segment-button>
+    <ion-segment-button value="epic">
+      <ion-label>EPIC</ion-label>
     </ion-segment-button>
   </ion-segment>
 
