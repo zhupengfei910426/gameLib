@@ -1538,5 +1538,362 @@
     "english": "Machinarium",
     "platform": "EPIC",
     "status": ""
+  },
+  {
+    "id": 221,
+    "title": "纪念碑谷",
+    "english": "Monument Valley",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 222,
+    "title": "健身环大冒险",
+    "english": "Nintendo Switch Sports",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 223,
+    "title": "超级马力欧 3D世界+狂怒世界",
+    "english": "Super Mario 3D World + Bowser's Fury",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 224,
+    "title": "塞尔达传说：王国之泪",
+    "english": "The Legend of Zelda: Tears of the Kingdom",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 225,
+    "title": "骰子地下城",
+    "english": "Dicey Dungeons",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 226,
+    "title": "危险时空的恋人",
+    "english": "Lovers in a Dangerous Spacetime",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 227,
+    "title": "Dungeons of Dreadrock",
+    "english": "Dungeons of Dreadrock",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 228,
+    "title": "神之天平",
+    "english": "ASTLIBRA Revision",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 229,
+    "title": "神之天平 外传: 幻雾之洞窟",
+    "english": "ASTLIBRA Gaiden: The Cave of Phantom Mist",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 230,
+    "title": "传说法师",
+    "english": "Wizard of Legend",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 231,
+    "title": "长号冠军",
+    "english": "Trombone Champ",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 232,
+    "title": "Lacuna",
+    "english": "Lacuna",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 233,
+    "title": "枪, 血与黑手党",
+    "english": "Gun Gore & Cannoli",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 234,
+    "title": "超级马力欧 奥德赛",
+    "english": "Super Mario Odyssey",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 235,
+    "title": "Hyper Light Drifter",
+    "english": "Hyper Light Drifter",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 236,
+    "title": "八方旅人",
+    "english": "Octopath Traveler",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 237,
+    "title": "Unpacking",
+    "english": "Unpacking",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 238,
+    "title": "Circa Infinity",
+    "english": "Circa Infinity",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 239,
+    "title": "What Lies in the Multiverse",
+    "english": "What Lies in the Multiverse",
+    "platform": "Switch",
+    "status": ""
+  },
+{
+    "id": 240,
+    "title": "主播女孩重度依赖",
+    "english": "Needy Girl Overdose",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 241,
+    "title": "皮克敏4",
+    "english": "Pikmin 4",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 242,
+    "title": "蒸汽世界挖掘",
+    "english": "SteamWorld Dig",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 243,
+    "title": "火焰之纹章 风花雪月",
+    "english": "Fire Emblem: Three Houses",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 244,
+    "title": "艾迪芬奇的记忆",
+    "english": "What Remains of Edith Finch",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 245,
+    "title": "武士刀 零",
+    "english": "Katana Zero",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 246,
+    "title": "远方孤帆",
+    "english": "Far: Lone Sails",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 247,
+    "title": "银河战士 Prime 重制版",
+    "english": "Metroid Prime Remastered",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 248,
+    "title": "Baba Is You",
+    "english": "Baba Is You",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 249,
+    "title": "奥日与黑暗森林",
+    "english": "Ori and the Blind Forest",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 250,
+    "title": "奥日与萤火意志",
+    "english": "Ori and the Will of the Wisps",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 251,
+    "title": "公理边缘",
+    "english": "Axiom Verge",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 252,
+    "title": "大神",
+    "english": "Okami",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 253,
+    "title": "胡闹搬家",
+    "english": "Moving Out",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 254,
+    "title": "薄暮传说",
+    "english": "Tales of Vesperia",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 255,
+    "title": "健身环大冒险",
+    "english": "Ring Fit Adventure",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 256,
+    "title": "逆转裁判123",
+    "english": "Phoenix Wright: Ace Attorney Trilogy",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 257,
+    "title": "Ape Out",
+    "english": "Ape Out",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 258,
+    "title": "星之卡比 探索发现",
+    "english": "Kirby and the Forgotten Land",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 259,
+    "title": "枪, 血与黑手党2",
+    "english": "Guns, Gore & Cannoli 2",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 260,
+    "title": "Guacamelee! 2",
+    "english": "Guacamelee! 2",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 261,
+    "title": "Guacamelee! Super Turbo Championship Edition",
+    "english": "Guacamelee! Super Turbo Championship Edition",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 262,
+    "title": "九张羊皮纸",
+    "english": "Nine Parchments",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 263,
+    "title": "集合啦！动物森友会",
+    "english": "Animal Crossing: New Horizons",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 264,
+    "title": "银河战士 生存恐惧",
+    "english": "Metroid Dread",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 265,
+    "title": "猫咪斗恶龙",
+    "english": "Cat Quest",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 266,
+    "title": "勇者斗恶龙XI 寻觅逝去的时光",
+    "english": "Dragon Quest XI: Echoes of an Elusive Age",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 267,
+    "title": "凯瑟琳: 完全版",
+    "english": "Catherine: Full Body",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 268,
+    "title": "路易吉洋馆3",
+    "english": "Luigi's Mansion 3",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 269,
+    "title": "Agent A: 伪装游戏",
+    "english": "Agent A: A puzzle in disguise",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 270,
+    "title": "塞尔达传说 旷野之息",
+    "english": "The Legend of Zelda: Breath of the Wild",
+    "platform": "Switch",
+    "status": ""
+  },
+  {
+    "id": 271,
+    "title": "塞尔达传说: 织梦岛",
+    "english": "The Legend of Zelda: Link's Awakening",
+    "platform": "Switch",
+    "status": ""
   }
 ]
