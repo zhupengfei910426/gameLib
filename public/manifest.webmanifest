@@ -1,9 +1,9 @@
 {
-  "name": "app",
-  "short_name": "app",
+  "name": "Game Butler",
+  "short_name": "Game Butler",
   "display": "standalone",
-  "scope": "./",
-  "start_url": "./",
+  "scope": "../",
+  "start_url": "../",
   "icons": [
     {
       "src": "icons/icon-72x72.png",
