@@ -1895,5 +1895,26 @@
     "english": "The Legend of Zelda: Link's Awakening",
     "platform": "Switch",
     "status": ""
+  },
+  {
+    "id": 272,
+    "title": "纪念碑谷2",
+    "english": "Monument Valley II",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 273,
+    "title": "The Battle of Polytopia",
+    "english": "The Battle of Polytopia",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 274,
+    "title": "幽灵行者2",
+    "english": "Ghostrunner 2",
+    "platform": "EPIC",
+    "status": ""
   }
 ]
