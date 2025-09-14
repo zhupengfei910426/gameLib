@@ -94,9 +94,10 @@ export class GamesPage implements OnInit {
 
         const epicGames = this.games.filter(game => game.platform.toLowerCase().includes('epic'));
         this.storageService.set('epic-games', JSON.stringify(epicGames));
+      }),
+      tap(() => {
+        this.storageService.setVersion();
       })
     ).subscribe();
-
-    this.storageService.setVersion();
   }
 }
