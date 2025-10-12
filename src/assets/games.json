@@ -1947,8 +1947,15 @@
   },
   {
     "id": 279,
-    "title": "Nightingale",
+    "title": "夜莺传说",
     "english": "Nightingale",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 280,
+    "title": "重力回路",
+    "english": "Gravity Circuit",
     "platform": "EPIC",
     "status": ""
   }
