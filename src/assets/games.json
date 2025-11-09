@@ -1958,5 +1958,26 @@
     "english": "Gravity Circuit",
     "platform": "EPIC",
     "status": ""
+  },
+  {
+    "id": 281,
+    "title": "Five Nights at Freddy's: Into the Pit",
+    "english": "Five Nights at Freddy's: Into the Pit",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 282,
+    "title": "Bendy and the Ink Machine",
+    "english": "Bendy and the Ink Machine",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 283,
+    "title": "Felix the Reaper",
+    "english": "Felix the Reaper",
+    "platform": "EPIC",
+    "status": ""
   }
 ]
