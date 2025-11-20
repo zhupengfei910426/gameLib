@@ -1979,5 +1979,26 @@
     "english": "Felix the Reaper",
     "platform": "EPIC",
     "status": ""
+  },
+  {
+    "id": 284,
+    "title": "Zero Hour",
+    "english": "Zero Hour",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 285,
+    "title": "灾厄逆刃",
+    "english": "ScourgeBringer",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 286,
+    "title": "寂静之歌",
+    "english": "Song of Silence",
+    "platform": "EPIC",
+    "status": ""
   }
 ]
