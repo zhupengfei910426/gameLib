@@ -2000,5 +2000,33 @@
     "english": "Song of Silence",
     "platform": "EPIC",
     "status": ""
+  },
+  {
+    "id": 287,
+    "title": "Universe for Sale",
+    "english": "Universe for Sale",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 288,
+    "title": "The Jackbox Party Pack 4",
+    "english": "The Jackbox Party Pack 4",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 289,
+    "title": "黑暗侦探",
+    "english": "Dark Detective",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 290,
+    "title": "霍格沃兹之遗",
+    "english": "Hogwarts Legacy",
+    "platform": "EPIC",
+    "status": ""
   }
 ]
