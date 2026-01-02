@@ -2028,5 +2028,75 @@
     "english": "Hogwarts Legacy",
     "platform": "EPIC",
     "status": ""
+  },
+  {
+    "id": 291,
+    "title": "赤痕：夜之仪式",
+    "english": "Bloodstained: Ritual of the Night",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 292,
+    "title": "We Were Here Together",
+    "english": "We Were Here Together",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 293,
+    "title": "SKALD Against the Black Priory",
+    "english": "SKALD Against the Black Priory",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 294,
+    "title": "Viewfinder",
+    "english": "Viewfinder",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 295,
+    "title": "三位一体",
+    "english": "Trine Enchanted Edition",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 296,
+    "title": "三位一体2: 完整版",
+    "english": "Trine 2: Complete Story",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 297,
+    "title": "三位一体3: 权力圣器",
+    "english": "Trine 3: The Artifacts of Power",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 298,
+    "title": "三位一体4: 决定版",
+    "english": "Trine 4: Definitive Edition",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 299,
+    "title": "全面战争：三国",
+    "english": "Total War: Three Kingdoms",
+    "platform": "EPIC",
+    "status": ""
+  },
+  {
+    "id": 300,
+    "title": "无主星渊",
+    "english": "Wildgate",
+    "platform": "EPIC",
+    "status": ""
   }
 ]
